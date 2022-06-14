@@ -5,7 +5,7 @@ A simple project using ASP.NET Core minimal APIs.
 - Integration Tests
 
 ## Official Documentation
-Minimal APIs [overview] https://docs.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis?view=aspnetcore-6.0
+Minimal APIs [overview](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis?view=aspnetcore-6.0)
 
 ### License
 The ASP.NET Core is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
